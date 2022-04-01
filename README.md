@@ -33,6 +33,7 @@ For the curious, my own attempts at implementing a basic Lisp interpeter can be 
 * The unpacking operator `*` and how `*args` works
 
 **Exercises**
+
 These exercises review some helpful python concepts. The learning purpose of each exercise is listed below it.
 
 _Ex 1._ Write a python program that takes a plaintext file as a command line argument and prints its contents to screen without any spaces.
